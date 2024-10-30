@@ -1,7 +1,7 @@
 # Tkinter
 
 Esempio di gestionale dipendenti usando mysql e tkinter con la possibilità di aggiungere dipendenti con anagrafiche 
-e cercarli per nome o cognome con suggerimento a tendina.
+e cercarli per nome o cognome con suggerimento a tendina, visualizzando i dati del dipendente.
 
 ![Anagrafiche](assets/Tkinter_Gestione.JPG)
 
