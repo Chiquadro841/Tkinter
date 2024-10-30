@@ -7,4 +7,6 @@ e cercarli per nome o cognome con suggerimento a tendina.
 
 Nella gestione Orari si possono controllare i loro orari mensili, inserendo orari di lavoro ed evidenziando in rosso eventuali errori di inserimento
 che causano accavallamenti.
+
+
 ![Anagrafiche](assets/Tkinter_Gestione.JPG)
